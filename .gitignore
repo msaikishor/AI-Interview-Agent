@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+myenv/
+
+# Django
+db.sqlite3
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.venv/
+
+# Node modules (all dependencies)
+node_modules/
+
+# Build/Cache output for Vite, React, Next, etc.
+.vite/
+dist/
+build/
+out/
+
+# Map files (source maps)
+*.js.map
+
+# Static/media (optional if auto-generated)
+staticfiles/
+media/
+
+# Coverage and testing outputs
+coverage/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# General log files
+*.log
+
+# Package lock files (delete them manually if created by mistake)
+package-lock.json
+yarn.lock
+
+# Misc (expand as project grows)

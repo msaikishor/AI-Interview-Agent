@@ -1,0 +1,6 @@
+Django>=4.2
+djangorestframework
+boto3
+python-dotenv
+django-cors-headers
+psycopg2-binary  # optional if using Postgres
